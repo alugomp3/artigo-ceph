@@ -1,11 +1,12 @@
 # artigo-ceph
 Artigo Migração Ceph-deploy para Cephadm
 ## Link para o Artigo
+https://dio.me/articles/cephstorage-transicao-ceph-deploy-para-cephadm
 
 
 ## Abaixo seguem o Prompt
 
-Comportte-se como um escritor de artigos de infraestrutura de virtualização e escreva o Artigo atendendo as regras abaixo:
+Comporte-se como um escritor de artigos de infraestrutura de virtualização e escreva o Artigo atendendo as regras abaixo:
 
 {Regras}
 > No máximo 5 linhas por blocos de explicação
